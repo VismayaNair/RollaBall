@@ -1,6 +1,8 @@
 # RollaBall
 
-## Aim:
+## Aim: 
+
+To Roll a Ball using C# program in unity .
 
 ## Algorithm:
 
@@ -94,6 +96,6 @@ public class NewBehaviourScript : MonoBehaviour
 ## Output:
 
 
-
-## Result:
+## Result :
+:
 Thus, the 3D application for Roll the Ball objects in unity is developed successfully.
