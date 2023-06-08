@@ -1,9 +1,7 @@
 # RollaBall
 
-## Aim: 
-
+## Aim:
 To Roll a Ball using C# program in unity .
-
 ## Algorithm:
 
 1. File -> Scene -> Select the scene -> Save as-> New folder(Scenes)-> File name (MiniGame)
@@ -45,7 +43,9 @@ Copy the PlayerController and drag to Script folder
 Double click the PlayerController file and type the coding
 
 ## Program:
+Developed by VISMAYA.S
 
+Register number : 212221230125
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -91,14 +91,10 @@ public class NewBehaviourScript : MonoBehaviour
         GetComponent<Rigidbody>().AddForce(x, y, z);
     }
 }
-
 ```
 
 ## Output:
+![output](nnn.png)
 
-
-![Uploading image.png…]()
-
-
-## Result :
+## Result:
 Thus, the 3D application for Roll the Ball objects in unity is developed successfully.
